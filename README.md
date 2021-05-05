@@ -16,3 +16,7 @@ we have all_matches.csv file
         in this we have PredictRuns() which return predic runs
     
     4. Run main.py file to get the output file
+
+(EXTRAS)
+    I made two more csv file if you want to predict score precisely-
+    bowling.csv and batsmenbowler.csv 
