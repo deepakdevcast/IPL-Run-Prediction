@@ -1,10 +1,6 @@
 /batsmanbowler.csv
 /bowling.csv
-/data_training.ipynb
 /inputFile.csv
 /main.py
 /predictor.py
-/RandomForestRegressor.joblib
-/strikerEncoder.joblib
-/teamEncoder.joblib
 /__pycache__
